@@ -18,3 +18,4 @@ let g:pencil_neutral_headings = 0
 let g:pencil_neutral_code_bg = 0
 let g:pencil_gutter_color = 1
 let g:airline_powerline_fonts = 1
+colorscheme nord
